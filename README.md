@@ -1,0 +1,1 @@
+Este projeto foi criado a partir de uma aula da escola Cod3r e funciona como um simples cadastro de usuários (CRUD)
